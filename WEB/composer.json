@@ -1,0 +1,25 @@
+{
+"name" : "dwes/tiendaonline",
+"description": "creacion de tienda online",
+"type": "project",
+"license": "MIT",
+"authors": [
+    {
+        "name": "Daniel Pelaez",
+        "email": "s.hafax@hotmail.com"
+    }
+],
+
+"require": { 
+
+},
+"autoload": {
+    "psr-4": { 
+        "dwes\\" : "src/"
+    }
+
+}
+
+
+
+}
